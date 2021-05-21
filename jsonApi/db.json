@@ -1,0 +1,83 @@
+{
+  "tasks": [
+    {
+      "task": "Discuss the long-term investment plans with Dad",
+      "isCompleted": false,
+      "id": 1,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Deadline of Project DESTINI ",
+      "isCompleted": false,
+      "id": 2,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Drink at least 5 litres of water daily.",
+      "isCompleted": false,
+      "id": 3,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Get the dosages checked by the doctor by today only",
+      "isCompleted": false,
+      "id": 4,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Get vaccinated as early as possible.",
+      "isCompleted": false,
+      "id": 6,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Update the groceries",
+      "isCompleted": false,
+      "id": 7,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Meeting with boss",
+      "isCompleted": false,
+      "id": 8,
+      "userId": null
+    },
+    {
+      "task": "Dinner with wife",
+      "isCompleted": false,
+      "id": 9,
+      "userId": "108732320056666094262"
+    },
+    {
+      "task": "Change the tempered Glass",
+      "isCompleted": false,
+      "userId": "116463828847931181630",
+      "id": 10
+    },
+    {
+      "task": "Drink at least 5 litres of water daily.",
+      "isCompleted": false,
+      "userId": "116463828847931181630",
+      "id": 11
+    },
+    {
+      "task": "Get the dosages checked by the doctor by today only",
+      "isCompleted": false,
+      "userId": "116463828847931181630",
+      "id": 12
+    },
+    {
+      "task": "Call mum!",
+      "isCompleted": false,
+      "userId": "108732320056666094262",
+      "id": 13
+    }
+  ],
+  "notes": [
+    {
+      "note": "According to Sun, 3 billion devices run Java. There are many devices where Java is currently used. Some of them are as follows:\n\nDesktop Applications such as acrobat reader, media player, antivirus, etc.\nWeb Applications such as irctc.co.in, javatpoint.com, etc.\nEnterprise Applications such as banking applications.\nMobile\nEmbedded System\nSmart Card\nRobotics\nGames, etc.",
+      "userId": "108732320056666094262",
+      "id": 1
+    }
+  ]
+}
