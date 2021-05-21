@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json"
+    "start": "json-server -p 3001 -w db.json",
+    "client": "cd ../ && npm run start --prefix client",
+    "dev": "concurrently \"npm run start\" \"npm run client\""
+  },
+  "engines":{
+    "node": "12.18.0"
   },
   "author": "",
   "license": "ISC",
